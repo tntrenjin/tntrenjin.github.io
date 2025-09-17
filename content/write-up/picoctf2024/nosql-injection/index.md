@@ -1,7 +1,11 @@
 ---
 title: '[Write-Up] NoSQL injection'
+summary: 'picoCTF2024 NoSQL injection 題目解題流程'
 date: 2025-09-17
-tags: ['CTF', 'CTF-Medium', 'Web Exploitation']
+tags:
+  - CTF
+  - CTF-Medium
+  - Web Exploitation
 author: 'tntrenjin'
 draft: false
 ---
@@ -66,7 +70,7 @@ app.post('/login', async (req, res) => {
 })
 ```
 
-### 嘗試
+### 解題
 
 先測看看簡單的~
 
@@ -77,7 +81,9 @@ email 打`picoplayer355@picoctf.org`，密碼打`{}`
 
 試試看用`$nin`語法(列出不在陣列或請求的字串)
 
-payload: `{"$nin": ""}`
+```json
+{ "$nin": "" }
+```
 
 ![alt text](image-1.png)
 
