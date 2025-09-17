@@ -1,8 +1,9 @@
 ---
 title: '[Write-Up] NoSQL injection'
-summary: 'picoCTF2024 NoSQL injection 題目解題流程'
 date: 2025-09-17
 tags:
+  - picoCTF2024
+  - writeup
   - CTF
   - CTF-Medium
   - Web Exploitation
