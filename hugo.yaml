@@ -1,5 +1,5 @@
 baseURL: https://example.org/
-languageCode: en-us
+languageCode: zh-tw
 title: RJ Blog
 
 theme: ['PaperMod']
@@ -19,7 +19,6 @@ params:
   description: 'ExampleSite description'
   keywords: [Blog, Portfolio, PaperMod]
   author: ['tntrenjin']
-  # author: ["Me", "You"] # multiple authors
   images: ['<link or path of image for opengraph, twitter-cards>']
   DateFormat: 'January 2, 2006'
   defaultTheme: light # dark, light
