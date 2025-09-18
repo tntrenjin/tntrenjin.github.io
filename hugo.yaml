@@ -61,6 +61,8 @@ params:
 
       - 喜歡研究新技術、看論文、架設各種服務，偶爾打打CTF
 
+      - [Read More→](/about/)
+
   socialIcons:
     - name: github
       url: 'https://github.com/tntrenjin'
