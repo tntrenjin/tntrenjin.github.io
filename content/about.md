@@ -63,7 +63,7 @@ title: '關於我'
 - 碩士
   - LLM-as-a-Judge for Security Evaluation
   - LLM Attention Attack Detection for Prompt Injection
-  - Jailbreak security evaluation across scenarios and languages with LLMs
+  - Jailbreak Security Evaluation Across Scenarios and Languages with LLMs
   - Blockchain Payment with LINE Bot
 - 大學
   - 畢業專題 居家健身輔助系統 `#Unity 3D`
